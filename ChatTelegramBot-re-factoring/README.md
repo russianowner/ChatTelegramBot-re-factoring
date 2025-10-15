@@ -60,5 +60,4 @@
 - We can also immediately change the neural network model, temperature, and the maximum number of words in the response in the file.
 - After the change, we launch the project and write to the bot in telegram / start
 - We use the bot
-- 
 ---
