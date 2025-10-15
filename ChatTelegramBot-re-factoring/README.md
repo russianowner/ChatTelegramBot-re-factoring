@@ -2,7 +2,7 @@
 
 ---
 
-- Simple Project - https://github.com/russianowner/ChatTelegramBot
+- Simple Project - https://github.com/russianowner/ChatTelegramBot-simple
 
 ---
 
