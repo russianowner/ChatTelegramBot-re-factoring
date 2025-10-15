@@ -1,6 +1,6 @@
 # ChatTelegramBot-re-factoring
 ---
-- Simple Project - https://github.com/russianowner/ChatTelegramBot
+- Simple Project - https://github.com/russianowner/ChatTelegramBot-simple
 ---
 - Телеграмм бот который общается с пользователем и может выполнять различные задачи, такие как предоставление информации, ответы на вопросы и помощь в выполнении задач или просто общение.
 ---
